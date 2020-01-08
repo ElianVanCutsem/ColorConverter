@@ -1,0 +1,6 @@
+C:\Users\elian\Documents\2ICT\1920apvancutsemelian\Project1\simplepalettequantizervs2008v2\SimplePaletteQuantizer\obj\Debug\ColorDepth.csprojAssemblyReference.cache
+C:\Users\elian\Documents\2ICT\1920apvancutsemelian\Project1\simplepalettequantizervs2008v2\SimplePaletteQuantizer\obj\Debug\SimplePaletteQuantizer.MainForm.resources
+C:\Users\elian\Documents\2ICT\1920apvancutsemelian\Project1\simplepalettequantizervs2008v2\SimplePaletteQuantizer\obj\Debug\SimplePaletteQuantizer.Properties.Resources.resources
+C:\Users\elian\Documents\2ICT\1920apvancutsemelian\Project1\simplepalettequantizervs2008v2\SimplePaletteQuantizer\obj\Debug\ColorDepth.csproj.GenerateResource.cache
+C:\Users\elian\Documents\2ICT\1920apvancutsemelian\Project1\simplepalettequantizervs2008v2\SimplePaletteQuantizer\obj\Debug\SimplePaletteQuantizer.exe
+C:\Users\elian\Documents\2ICT\1920apvancutsemelian\Project1\simplepalettequantizervs2008v2\SimplePaletteQuantizer\obj\Debug\SimplePaletteQuantizer.pdb
